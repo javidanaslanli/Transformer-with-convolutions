@@ -7,5 +7,10 @@ I used https://arxiv.org/abs/2103.15808 paper to implement transformer with conv
 <img width="1021" alt="Screen_Shot_2021-07-20_at_11 50 20_AM_1CVroUG" src="https://github.com/javidanaslanli/CvT---Transformers-with-convolutions-from-scratch/assets/145380543/e4604757-159b-47b1-9832-67456a817c0e">
 
 
+
+
+
+
+
 I am sharing my hyperparameters with you too, it is possible to improve the accuracy of model.
 
