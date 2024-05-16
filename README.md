@@ -12,5 +12,4 @@ I used https://arxiv.org/abs/2103.15808 paper to implement transformer with conv
 
 
 
-I am sharing my hyperparameters with you too, it is possible to improve the accuracy of model.
 
